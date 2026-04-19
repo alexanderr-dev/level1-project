@@ -1,0 +1,370 @@
+* {
+    font-family: "Playfair", serif;
+}
+
+#backgroundimgone {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image/Rectangle\ 4\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* height: 780px; */
+    padding-bottom: 30px;
+}
+
+#navbar {
+    border-radius: 30px;
+    margin: 0 45px;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.192);
+}
+
+#navlink {
+    /* margin: auto; */
+    margin-left: 500px;
+
+}
+
+#navbtn {
+    background-color: #a76c34;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 20px;
+}
+
+#links {
+    color: white;
+}
+
+.herosec {
+    margin-right: 20px;
+    margin-left: 45px;
+    margin-top: 150px;
+    color: white;
+    padding: 10px 0;
+}
+
+.herosech4 {
+    margin: 10px 0;
+}
+
+.herosech4 h4 {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.herosech1 h1 {
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Playfair", serif;
+}
+
+.herosecP {}
+
+.herosecbtn button {
+    background-color: #a76c34;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+#section1 {
+    background-color: #e4d1c0;
+    padding: 50px 100px 50px 100px;
+}
+
+/* .Rectangle5img {
+    position: relative;
+    top: 2px;
+} */
+
+.Rectangle5img img {
+    width: 597px;
+    height: 587px;
+    width: 100%;
+}
+
+/* .Rectangle6img {
+    position: absolute;
+    left: 280px;
+    top: 980px;
+}
+
+.Rectangle6img img {
+    width: 418px;
+    height: 309px;
+} */
+
+#colnotwo {
+    padding: 160px 0px 0px 0px;
+}
+
+.AboutUSH1 {
+    margin-bottom: 20px;
+}
+
+.AboutUSH1 h1 {
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Playfair", serif;
+    color: #a76c34;
+}
+
+.exploreh2 h2 {
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.exploreimg img {
+    width: 97px;
+    height: 32px;
+}
+
+.exploreparagraph p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.backgroundimgtwo {
+    padding: 100px 90px 50px 90px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image/frame\ 23.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#tourPh2 {
+    margin-bottom: 25px;
+}
+
+#tourPh2 h2 {
+    color: white;
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Playfair", serif;
+}
+
+#cardd {
+    border-radius: 30px;
+    padding: 10px 0;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.122);
+}
+
+#cardd h5 {
+    font-family: "Playfair", serif;
+}
+
+#cardd p {
+    font-family: "Playfair", serif;
+}
+
+.section3 {
+    padding: 30px 50px 40px 70px;
+    background-color: #e4d1c0;
+}
+
+.poph2 h2 {
+    color: #a76c34;
+    font-family: "Playfair", serif;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.btnss span button {
+    margin: 0 15px 3px 15px;
+    border: #a76c34 solid 1px;
+    padding: 5px 45px;
+    border-radius: 25px;
+    color: #a76c34;
+    font-family: "Playfair", serif;
+}
+
+
+#btn1 button {
+    margin-bottom: 3px;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 25px;
+    color: white;
+    background-color: #a76c34;
+    font-family: "Playfair", serif;
+}
+
+.secondsection3 {
+    padding: 20px 35px 20px 35px;
+}
+
+#sec3cards {
+    border-radius: 20px;
+}
+
+#sec3cards img {
+    /* border-radius: 10px; */
+}
+
+#sec3cards h5 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3A2612;
+}
+
+#sec3cards p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #3A2612;
+}
+
+#sec3cards button {
+    color: #86562A;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    background-color: white;
+}
+
+.thirdsec3 {
+    /* background-color: teal; */
+    /* padding: 20px 30px 10px 30px; */
+
+}
+
+.galh2 {
+    text-align: center;
+    margin: 25px 25PX;
+}
+
+.galh2 h2 {
+    font-size: 36px;
+    font-weight: 500;
+    color: #A76C34;
+}
+
+.section4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(image/ee6e782b824ee2f4b9bd295db8a2d1581ac5eab1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 459px;
+    margin-bottom: 20px;
+    /* position: relative; */
+}
+
+.Testimonials {
+    padding-top: 80px;
+}
+
+.Testimonials h2 {
+    color: white;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.Testimonials p {
+    font-size: 28px;
+    font-weight: 400;
+    color: white;
+}
+
+.contactusbox{
+    padding: 20px px;
+
+}
+
+#inpcontact h3{
+    font-size: 36px;
+    font-weight: 500;
+    color: #A76C34;
+}
+
+#formid {
+    margin-left: 90px;
+    width: 70%;
+    border-radius: 20px;
+    padding: 30px 20px 30px 20px;
+    background-color: #f2e9e1;
+}
+
+.inph5{
+    /* align-items: end; */
+}
+
+.inph5 h5{
+    /* text-align: end; */
+    /* align-items: end; */
+    /* margin-left: 70px; */
+    margin-top: 25px;
+    color: #A76C34;
+}
+
+.inpbtn{
+    margin-top: 15px;
+    align-items: start;
+}
+
+.inpbtn button{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #A76C34;
+    color: white;
+    border: none;
+}
+
+#formid input{
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: 1px solid #dcdddf;
+}
+
+#inpemail input{
+    width: 100%;
+}
+
+#formid label{
+    font-size: 12px;
+    font-weight: 500;
+    color: #3A2612;
+}
+
+#inputcol{
+    align-items: center;
+    align-content: center;
+}
+
+.lastbackimg{
+    background-color: #d4b79d;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(image/d92a9d7a2797351ef9ac66a2660e2b3443c213f9.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* height: 418px; */
+    padding: 50px 30px;
+}
+
+#lastcols h2{
+    color: #3A2612;
+    font-weight: 500;
+}
+
+#lastcols p{
+    color: #3A2612;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#endcols h3{
+    color: #3A2612;
+}
+
+#endcols label{
+    color: #3A2612;
+}
+
+#lastinp input{
+    /* padding: 10px  10px; */
+    /* border-radius: 20px;
+    border-right: none; */
+}
