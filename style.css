@@ -163,7 +163,7 @@
 }
 
 .section3 {
-    padding: 30px 50px 40px 70px;
+    padding: 30px 30px 40px 30px;
     background-color: #e4d1c0;
 }
 
@@ -228,7 +228,7 @@
 
 .thirdsec3 {
     /* background-color: teal; */
-    /* padding: 20px 30px 10px 30px; */
+    padding: 20px 30px 10px 30px;
 
 }
 
@@ -281,10 +281,11 @@
 }
 
 #formid {
-    margin-left: 90px;
+    /* padding-left: 20px; */
+    margin: auto;
     width: 70%;
     border-radius: 20px;
-    padding: 30px 20px 30px 20px;
+    padding: 30px 15px 30px 20px;
     background-color: #f2e9e1;
 }
 
@@ -330,8 +331,8 @@
 }
 
 #inputcol{
-    align-items: center;
-    align-content: center;
+    /* padding-left: 20px; */
+    margin: auto;
 }
 
 .lastbackimg{
@@ -367,4 +368,8 @@
     /* padding: 10px  10px; */
     /* border-radius: 20px;
     border-right: none; */
+}
+
+#imgcollage img{
+    width: 100%;
 }
